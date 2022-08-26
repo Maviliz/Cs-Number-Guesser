@@ -33,18 +33,12 @@ string userGuess;
     Console.Write("Please enter a 4-digit number. All digits must be between the numbers 1-6: ");
     userGuess = Console.ReadLine();
  
-    while (userGuess.Length != 4)
+    while (userGuess.Length != 4| IsAllDigits(userGuess) == false)
     {
-        Console.WriteLine("Your guess must be 4 digits long. Please enter a 4-digit number made up of numbers between 1-6: ");
+        Console.WriteLine("Your guess must be a 4-digit number. Please enter a 4-digit number made up only of numbers between 1-6: ");
         userGuess = Console.ReadLine();
         
     }
-    while (IsAllDigits(userGuess) == false)
-    {
-        Console.WriteLine("Your guess must be 4 digits, each a number between 1-6: ");
-        userGuess = Console.ReadLine();
-    }
-
     attemptsTaken++;
     return userGuess;
 }

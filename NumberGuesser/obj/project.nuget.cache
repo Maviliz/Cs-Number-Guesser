@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4clvZNnwp26ntGjmEBajLp+QuWbrXhK7nBCMyAicyiFqF77ZFBqcmvabLM8oITN1wQPg+sxVvej4ea0ebWjxKQ==",
+  "dgSpecHash": "Ml12fgHibhr+jV/MZd9u3O500IVSrHyRWBcTedTUgyWavNSyq7JZaDwtUw2UXjRdmYYCi0AyZ6tiBh99BdlQfg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\skyso\\Documents\\Code repository\\Coding challenges\\Quadax\\Number Guesser\\NumberGuesser\\NumberGuesser\\NumberGuesser.csproj",
+  "projectFilePath": "C:\\Users\\skyso\\Documents\\Code repository\\Quadax\\Cs-Number-Guesser\\NumberGuesser\\NumberGuesser.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\skyso\\Documents\\Code repository\\Coding challenges\\Quadax\\Number Guesser\\NumberGuesser\\NumberGuesser\\NumberGuesser.csproj": {}
+    "C:\\Users\\skyso\\Documents\\Code repository\\Quadax\\Cs-Number-Guesser\\NumberGuesser\\NumberGuesser.csproj": {}
   },
   "projects": {
-    "C:\\Users\\skyso\\Documents\\Code repository\\Coding challenges\\Quadax\\Number Guesser\\NumberGuesser\\NumberGuesser\\NumberGuesser.csproj": {
+    "C:\\Users\\skyso\\Documents\\Code repository\\Quadax\\Cs-Number-Guesser\\NumberGuesser\\NumberGuesser.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\skyso\\Documents\\Code repository\\Coding challenges\\Quadax\\Number Guesser\\NumberGuesser\\NumberGuesser\\NumberGuesser.csproj",
+        "projectUniqueName": "C:\\Users\\skyso\\Documents\\Code repository\\Quadax\\Cs-Number-Guesser\\NumberGuesser\\NumberGuesser.csproj",
         "projectName": "NumberGuesser",
-        "projectPath": "C:\\Users\\skyso\\Documents\\Code repository\\Coding challenges\\Quadax\\Number Guesser\\NumberGuesser\\NumberGuesser\\NumberGuesser.csproj",
+        "projectPath": "C:\\Users\\skyso\\Documents\\Code repository\\Quadax\\Cs-Number-Guesser\\NumberGuesser\\NumberGuesser.csproj",
         "packagesPath": "C:\\Users\\skyso\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\skyso\\Documents\\Code repository\\Coding challenges\\Quadax\\Number Guesser\\NumberGuesser\\NumberGuesser\\obj\\",
+        "outputPath": "C:\\Users\\skyso\\Documents\\Code repository\\Quadax\\Cs-Number-Guesser\\NumberGuesser\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\skyso\\AppData\\Roaming\\NuGet\\NuGet.Config",
